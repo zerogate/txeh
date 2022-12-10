@@ -1,4 +1,4 @@
-module github.com/txn2/txeh
+module github.com/zerogate/txeh
 
 go 1.12
 
